@@ -1,0 +1,2 @@
+# MyNewRepository
+Code is King 
